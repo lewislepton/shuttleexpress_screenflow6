@@ -1,11 +1,11 @@
 simple settings file for the [SHUTTLE EXPRESS](http://www.contourdesign.com/UK/product/shuttlexpress/) for [SCREENFLOW](https://www.telestream.net/screenflow/overview.htm)
 
-• jog wheel frame by frame scrubbing
-• shuttle zones for quicker scrubbing
-• button 01 - start of session
-• button 02 - zoom out
-• button 03 - play/pause
-• button 04 - zoom in
+• jog wheel frame by frame scrubbing<br>
+• shuttle zones for quicker scrubbing<br>
+• button 01 - start of session<br>
+• button 02 - zoom out<br>
+• button 03 - play/pause<br>
+• button 04 - zoom in<br>
 • button 05 - split
 
 INSTALL
